@@ -1,0 +1,4 @@
+security.key
+venv
+data.db
+__pycache__
